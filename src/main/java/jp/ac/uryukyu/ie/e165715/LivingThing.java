@@ -1,4 +1,4 @@
-package e165715;
+package jp.ac.uryukyu.ie.e165715;
 
 /**
  * 生物クラス。
